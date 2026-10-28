@@ -1,0 +1,19 @@
+EXEMPLO DE EXECUCAO
+
+========================================
+   ORDENACAO DE PRECOS - BUBBLE SORT
+========================================
+
+Cenario: precos de 10 produtos de um supermercado.
+Criterio: ordem crescente (menor para o maior).
+
+Precos antes da ordenacao:
+R$ 19.90 | R$ 5.50 | R$ 32.00 | R$ 12.75 | R$ 8.99 | R$ 45.90 | R$ 3.25 | R$ 27.49 | R$ 15.00 | R$ 10.50
+
+Precos depois da ordenacao (crescente):
+R$ 3.25 | R$ 5.50 | R$ 8.99 | R$ 10.50 | R$ 12.75 | R$ 15.00 | R$ 19.90 | R$ 27.49 | R$ 32.00 | R$ 45.90
+
+Menor preco: R$ 3.25
+Maior preco: R$ 45.90
+
+Ordenacao concluida com Bubble Sort!
