@@ -10,8 +10,6 @@
 - Kaio Kelvin de Souza Barros Cutrim
 
 
-> Remova os campos que não forem utilizados e confirme que todos os integrantes estão identificados.
-
 ## 3. Descrição do problema cotidiano
 
 Um supermercado precisa consultar os preços de produtos de maneira organizada. Quando os preços estão fora de ordem, pode ser mais difícil identificar rapidamente quais produtos são mais baratos e quais são mais caros.
