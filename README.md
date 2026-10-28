@@ -2,15 +2,13 @@
 
 ## 1. Disciplina e professora
 
-- **Disciplina:** [preencha com o nome da disciplina]
-- **Professora:** [preencha com o nome da professora]
+- **Disciplina:** Algoritmos e pensamento computacional
+- **Professora:** Karla R. Sartin
 
 ## 2. Integrantes
 
-- [Nome completo do integrante 1]
-- [Nome completo do integrante 2, se houver]
-- [Nome completo do integrante 3, se houver]
-- [Nome completo do integrante 4, se houver]
+- Kaio Kelvin de Souza Barros Cutrim
+
 
 > Remova os campos que não forem utilizados e confirme que todos os integrantes estão identificados.
 
